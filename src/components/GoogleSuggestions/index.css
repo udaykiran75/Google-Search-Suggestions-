@@ -1,0 +1,47 @@
+.google-logo {
+  width: 500px;
+}
+.appcontainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.searchContainer {
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 12px;
+  padding: 10px;
+  min-width: 650px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-input {
+  width: 580px;
+  padding: 10px;
+  font-size: 25px;
+  font-family: Roboto;
+  outline: none;
+  border: none;
+}
+.search-icon {
+  height: 35px;
+  width: 35px;
+}
+.search-bar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.suggestion-list {
+  list-style-type: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}

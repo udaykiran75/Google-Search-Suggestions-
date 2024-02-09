@@ -1,0 +1,13 @@
+.para {
+  font-family: Roboto;
+  font-size: 25px;
+}
+.suggestion-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon {
+  width: 30px;
+  height: 30px;
+}
